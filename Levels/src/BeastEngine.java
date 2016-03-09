@@ -6,7 +6,6 @@ import lejos.nxt.SensorPort;
 import lejos.nxt.ColorSensor;
 import lejos.robotics.Color;
 **/
-hghghghgh
 public class BeastEngine {
 	//Movement Related Functions
 	//Backward and Forward are used oppositely due to how the Motors were mounted to the Robot
